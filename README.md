@@ -1,4 +1,4 @@
-https://github.com/dafin/dafin/edit/main/README.md
+[![Discord Presence](https://lanyard.cnrad.dev/api/866288322028896267)](https://discord.com/users/866288322028896267)
 
 <!--
 **dhafin-k/dhafin-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
