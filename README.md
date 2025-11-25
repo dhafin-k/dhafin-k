@@ -1,5 +1,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/866288322028896267)](https://discord.com/users/866288322028896267)
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=a&theme=dracula&sort=xp)
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=dhfin_e&theme=dracula&sort=xp)
 
 ###
 
